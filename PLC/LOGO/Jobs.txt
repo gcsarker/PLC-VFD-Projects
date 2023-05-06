@@ -1,0 +1,12 @@
+1.Direct online starter
+2. Motor start then after 10 seconds motor off.
+3. Motor 1 on, then after 10 seconds Motor 1 off, then Motor 2 On
+4. Power On, then after some time motor Start
+5. Power On, Then after some time Motor 1 Start, then after 10s Motor 2 Start, then after 10s first Motor off
+6. Automatic Traffic Control
+7. Conveyor Belt and Automatic Bottle Filling
+8. Automatic Star Delta
+9. Room Light Fan Controlling Program using PT 100 Sensor to keep the temperature fixed at 30 degree celcius
+10.Automatic forward reverse
+11.Automatic forward reverse with sensor
+12. Perform of Process Mixing
